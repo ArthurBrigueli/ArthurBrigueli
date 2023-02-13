@@ -15,7 +15,7 @@
 </div><br/>
 
 
-el.app/api/top-langs/?username=arthurbrigueli&layout=compact)](https://github.com/arthurbrigueli/github-readme-stats)
+el.app/api/top-langs/?username=arthurbrigueli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
