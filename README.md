@@ -15,8 +15,7 @@
 </div><br/>
 
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbrigueli&hide=html&layout=compact=true&theme=radical)](https://github.com/arthurbrigueli/github-readme-stats)
-
+el.app/api/top-langs/?username=arthurbrigueli&layout=compact)](https://github.com/arthurbrigueli/github-readme-stats)
 
 
 
